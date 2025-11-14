@@ -1,0 +1,21 @@
+# Ignore dataset
+data/
+
+# Ignore model weights
+*.h5
+*.hdf5
+*.pt
+*.pth
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# VS Code workspace
+.vscode/
